@@ -1,0 +1,27 @@
+{
+  "applications": {
+    "residential-kitchens": "projects/kitchens-countertops",
+    "residential-bathrooms": "projects/bathrooms",
+    "residential-salons": "projects/salons-living-spaces",
+    "residential-facades": "projects/residential-facades",
+    "residential-pools": "projects/swimming-pools",
+    "residential-terraces": "projects/terraces",
+    "residential-waterjet": "projects/waterjet-bespoke",
+    "commercial-kitchens": "projects/hospitality-counters",
+    "commercial-bathrooms": "projects/commercial-bathrooms",
+    "commercial-salons": "projects/common-areas",
+    "commercial-facades": "projects/commercial-facades",
+    "commercial-waterjet": "projects/commercial-waterjet-bespoke",
+    "commercial-other": "projects/other-commercial"
+  },
+  "finishes": [
+    "polished",
+    "honed",
+    "leathered",
+    "brushed",
+    "sandblasted",
+    "bush-hammered",
+    "flamed",
+    "tumbled"
+  ]
+}

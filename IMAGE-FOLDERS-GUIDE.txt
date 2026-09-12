@@ -1,0 +1,15 @@
+WEBSITE 10 — ADDING IMAGES
+
+1. Open the content-images folder.
+2. Put your approved JPG, JPEG, PNG, WEBP or AVIF image into the matching category folder.
+3. Do NOT edit HTML to add the image.
+4. For local preview, run: python build_gallery.py
+5. Netlify runs build_gallery.py automatically on deployment when netlify.toml is used.
+6. Images are displayed with the website's responsive gallery sizing automatically. Original files are not distorted.
+
+Examples:
+content-images/projects/kitchens-countertops/kitchen-01.jpg
+content-images/projects/swimming-pools/pool-01.webp
+content-images/finishes/leathered/leathered-01.jpg
+
+The mapping of every page to every folder is stored in gallery-config.json.
